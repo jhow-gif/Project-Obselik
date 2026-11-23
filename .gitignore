@@ -1,0 +1,14 @@
+# Ambiente e credenciais
+.env
+venv/
+__pycache__/
+.pytest_cache/
+
+# Artefatos gerados dinamicamente pelo usuário
+audit_report.md
+audit_report.sha256
+secops_results.sarif.json
+soc_alerts.json
+vulnerability_matrix.csv
+secops_audit.db
+hardening_scripts/
