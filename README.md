@@ -51,7 +51,7 @@ graph TD
 
 ```powershell
 # 1. Clone repository and activate virtual environment
-git clone [https://github.com/SEU-USUARIO/AutoSecReport-AI.git](https://github.com/SEU-USUARIO/AutoSecReport-AI.git)
+git clone [https://github.com/jhow-gif/Project-Obselik](https://github.com/jhow-gif/Project-Obselik)
 cd AutoSecReport-AI
 python -m venv venv
 .\venv\Scripts\Activate.ps1
